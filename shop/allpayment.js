@@ -1,5 +1,5 @@
 const allpayment = (prefix) => {
-return `PAYMENT BY ZEEONE OFC
+return `PAYMENT BY DXN BOT
 
 *🏧 BANK*
 
@@ -15,13 +15,13 @@ return `PAYMENT BY ZEEONE OFC
 *💰 E-MONEY*
 
 1. GOPAY
-	ㅁ 0887 4350 47326
+	ㅁ 0895 3374 65653
 2. OVO
-	ㅁ 0887 4350 47326
+	ㅁ 0895 3374 65653
 3. DANA
-	ㅁ 0887 4350 47326
+	ㅁ 0895 3374 65653
 	
-Semuanya atas nama RI****DI
+Semuanya atas nama DH**A
 
 *📲 PULSA*
 
