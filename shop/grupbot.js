@@ -8,7 +8,7 @@ _https://chat.whatsapp.com/Lfbd0jm6j5qGOK6LJPkkjm_
 _https://chat.whatsapp.com/Lfbd0jm6j5qGOK6LJPkkjm_
 3. *DxNBotz Support 3*
 _https://chat.whatsapp.com/Lfbd0jm6j5qGOK6LJPkkjm_
-4. *Alphabot Support 4* 
+4. *DxNBotz Support 4* 
 _https://chat.whatsapp.com/Lfbd0jm6j5qGOK6LJPkkjm_
 
 Jika ada link yang ke reset, silahkan hubungi
