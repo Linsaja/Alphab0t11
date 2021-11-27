@@ -1,6 +1,6 @@
 // jangan di ubah jika tidak punya group bot, takutnya eror
 const gcbotwa = () =>{
-	return`Join Aja Semua Grub Sama Aja Kok:) !
+	return`Join Ngab Semua Grub Sama Aja Kok:) !
 
 1. *DxNBotz Support*
 _https://chat.whatsapp.com/Lfbd0jm6j5qGOK6LJPkkjm_
