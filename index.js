@@ -156,7 +156,7 @@ var qr_code_gopay = 'https://i.top4top.io/p_2053em3vh1.jpg' //gk usah di ubah ya
 var _minggu = 'Rp 10.000,00' //Masukkan harga sewa sesuai keinginan
 var __minggu = 'Rp 15.000,00'
 var ___minggu = 'Rp 20.000,00'
-var _bulan = 'Rp 23.000,00'
+var _bulan = 'Rp 24.000,00'
 var _permanen = 'Rp 100.000,00'
 var __permanen = 'Rp 150.000,00'
 
@@ -1695,7 +1695,7 @@ const checkWin = (sender) => {
             }
             tictactoe[enemy] = data
             delete tictactoe[senderNumber]
-            var teks = `🎮🎭 ${petik}TICTACTOE${petik} ??🎮${enter}•> Player 1 : @${player1.split("@")[0]} (${mode})`
+            var teks = `🎮🎭 ${petik}TICTACTOE${petik} 🎭🎮${enter}•> Player 1 : @${player1.split("@")[0]} (${mode})`
             mode = mode == X ? O : X
             var text2 = `${enter}${enter}•> Player 2 : @${player2.split("@")[0]} (${mode})`
             var test = `${enter}_ketik nyerah untuk menyerah_`
@@ -1782,7 +1782,7 @@ const checkWin = (sender) => {
                 })
                 fs.unlinkSync("./temp/" + from + ".json");
 	} else if (sender == `${tttSkuy.Y}@s.whatsapp.net` &&  budy.toLowerCase() == 'n') {
-		alpha.sendMessage(from, `「 *Game Tictactoe Rejected* 」\n\n• @${tttSkuy.Y} yahaha cupu lo`, text, {quoted: mek, contextInfo: { mentionedJid: [tttSkuy.Y + "@s.whatsapp.net"]}})
+		alpha.sendMessage(from, `「 *Game Tictactoe Rejected* 」\n\n• @${tttSkuy.Y} yahaha najis cupu banget lo`, text, {quoted: mek, contextInfo: { mentionedJid: [tttSkuy.Y + "@s.whatsapp.net"]}})
 		fs.unlinkSync("./temp/" + from + ".json");
 	}
 }
