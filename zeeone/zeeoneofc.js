@@ -110,7 +110,7 @@ ${petik}└❒ ${prefix}anime${petik} _random_
 `
 }
 const allmenu = (prefix, wita, wit, ucapannya2, timuu, status, wa_version, mcc, mnc, os_version, device_manufacturer, device_model, alfa , alfa1, thisDay, ini_tanggal, totalchat, hit_today, ini_gcchat, latensiii, tekss)  => {
-	return`❏───「 *ALPHA BOT* 」───❏
+	return`❏───「DxN-BOTZ* 」───❏
      
 ┌❏ *INDONESIA TIME*
 ${petik}│◦➛ WIB : ${timuu}
@@ -891,7 +891,7 @@ ${petik}│◦ ${prefix}rikagusriani
 │
 └─❑「 MENU BOT 」
 
-❏───「 *ALPHA BOT* 」───❏
+❏───「*DxN-BOTZ* 」───❏
 `
 }
 
@@ -948,7 +948,7 @@ ${petik}├❒ ${prefix}ttp4${petik}
 ${petik}├❒ ${prefix}swm${petik} author|packname
 ${petik}├❒ ${prefix}take${petik} author|packname
 ${petik}│❒ ${prefix}fdeface${petik}
-${petik}│❒ ${prefix}amongus${petik} 
+${petik}│❒ ${prefix}amongus${petik}
 ${petik}│❒ ${prefix}tweettrump${petik} text
 ${petik}│❒ ${prefix}cmm${petik} text
 ${petik}│❒ ${prefix}kanna${petik} text
